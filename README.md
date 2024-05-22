@@ -44,7 +44,7 @@ TODO
 The movie clips used in the experiments are available at: https://yuvalnirlab.com/ 
 
 ## Experiment
-The experiment code is available at: https://github.com/dyamin/MoviesExperiment 
+The experiment code is available [here](https://github.com/dyamin/MEGA-Experiment)
 
 ## Data
 The data used in this study is available upon request due to privacy and ethical considerations.
