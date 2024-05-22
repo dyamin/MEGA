@@ -59,11 +59,7 @@ If you use any part of this code or data in your research, please cite our paper
 Yamin D., Schmidig J.F., Sharon O., Nadu Y., Nir J., Ranganath C., Nir Y. (2024). Seeing the future: anticipatory eye gaze as a marker of memory.
 
 ```
-@article{Yamin2024MEGA,
-  title={Seeing the future: anticipatory eye gaze as a marker of memory},
-  author={Yamin, Daniel and Schmidig, Flavio J. and Sharon, Omer and Nadu, Yuval and Nir, Joshua and Ranganath, Charan and Nir, Yuval},
-  year={2024}
-}
+TODO
 ```
 
 ## Contributing
