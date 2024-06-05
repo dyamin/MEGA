@@ -22,11 +22,19 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
 ### Data Preprocessing
-Run the preprocessing script to prepare the eye-tracking data:
+Run the preprocessing module to prepare the eye-tracking data:
 ```bash
-python preprocess_data.py
+TODO
 ```
+
+### Data Postprocessing
+Run the postprocessing module to prepare the eye-tracking data:
+```bash
+TODO
+```
+..
 
 ### Analysis
 To analyze the data and calculate metrics such as Gaze Average Distance (GAD) and the MEGA score, run:
@@ -74,8 +82,8 @@ We welcome contributions from the community. Please follow these steps to contri
 - Daniel Yamin
 - Flavio Schmidig
 - Omer Sharon
-- Yuval Nadu
-- Charan Ranganath
+- Jonathan Nir
+- Yuval Shapira
 - Yuval Nir
 
 ## License
