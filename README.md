@@ -1,7 +1,7 @@
-# MEGA: Memory Episode Gaze Anticipation
+# MEGA: Memory Episode Gaze Anticipation 👀
 
 ## Introduction
-Welcome to the repository for the paper "Seeing the future: anticipatory eye gaze as a marker of memory." This study introduces the MEGA (Memory Episode Gaze Anticipation) paradigm, which utilizes eye tracking to quantify memory retrieval without relying on verbal reports. By monitoring anticipatory gaze patterns, we can index memory traces for events, providing a novel "no-report" method for assessing episodic memory.
+Welcome to the repository for the paper "Seeing the Future: Anticipatory Eye Gaze as a Marker of Memory." This study introduces the MEGA (Memory Episode Gaze Anticipation) paradigm, which utilizes eye tracking to quantify memory retrieval without relying on verbal reports. By monitoring anticipatory gaze patterns, we can index event memory traces, providing a novel "no-report" method for assessing episodic memory.
 
 ## Getting Started
 
@@ -43,19 +43,19 @@ TODO
 ```
 
 ### Machine Learning
-To perform machine learning classification on the gaze data, use:
-```bash
-TODO
-```
+To perform machine learning classification on the eye-tracking features (calculated using the code under src/features_extraction), use the provided Jupyter notebooks available at:
+src/classification
+
+These notebooks include detailed instructions and scripts for: Data preparation, Training and evaluating machine learning models, Performing single-trial classification using XGBoost
 
 ## Stimuli
-The movie clips used in the experiments are available at: https://yuvalnirlab.com/ 
+The movie clips used in the experiments are available at [Yuval Nir Lab](https://yuvalnirlab.com/)
 
 ## Experiment
 The experiment code is available [here](https://github.com/dyamin/MEGA-Experiment)
 
 ## Data
-The data used in this study is available upon request due to privacy and ethical considerations.
+The data used in this study is available upon request due to privacy and ethical considerations. Please contact the corresponding author for access.
 
 ## Results
 - **Figures and Tables**: Generated results can be found in the `results` directory.
