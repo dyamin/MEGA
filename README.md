@@ -24,15 +24,22 @@ pip install -r requirements.txt
 ## Usage
 
 ### Data Preprocessing
-Run the preprocessing module to prepare the eye-tracking data:
+Preprocessing starts with two main components: `Preprocess-subjects` and `decentralized`.
+
+1. **Preprocess-subjects**:
+   - Choose between `ParseEyeLinkAsc` or `Cili` to read the EyeLink `.asc` files (after conversion using the EyeLink tool `edf2asc`). This will return all the data from the EyeLink parser as a large pandas DataFrame.
+
+2. **Decentralized**:
+   - Since each subject watches the movies in a different order, you will have one long file with movie number markers. This code extracts data for each movie independently, making it easier to load and process.
+
 ```bash
-TODO
+To run this step, use the file `PreprocessingController.py` under the folder pre_processing
 ```
 
 ### Data Postprocessing
-Run the postprocessing module to prepare the eye-tracking data:
+Run the postprocessing module to organize and classify the eye-tracking data, with the memory reports:
 ```bash
-TODO
+To run this step, use the file `PostprocessingController.py` under the folder post_processing
 ```
 ..
 
