@@ -41,19 +41,41 @@ Run the postprocessing module to organize and classify the eye-tracking data, wi
 ```bash
 To run this step, use the file `PostprocessingController.py` under the folder post_processing
 ```
-..
 
-### Analysis
-To analyze the data and calculate metrics such as Gaze Average Distance (GAD) and the MEGA score, run:
+### RoI
+Run the RoI module to add the RoI definitions
 ```bash
-TODO
+To run this step, use the file `src/roi/RoiController.py`
+```
+
+### Feature Extraction
+To extract eye-tracking features, use the module features_extraction
+```bash
+To run this step, use the file `src/features_extraction/FeatureExtractionController.py'
+```
+
+### Statistical Analysis
+To carry out statistical analysis, you can use the Statistical Analysis module to create visualizations and calculate the statistical power for the effect. Here's how to do it:
+```bash
+1. Start by defining the configuration in the `src/statistical_analysis/config.py` file.
+2. Next, execute the pre-plotter file located at 'src/statistical_analysis/Preplotter.py'
+3. Finally, run either 'src/statistical_analysis/GazeAnalysisPlotter.py' or 'src/statistical_analysis/BetweenPopulationsAnalysisPlotter.py' based on the specific test you need to perform.
 ```
 
 ### Machine Learning
-To perform machine learning classification on the eye-tracking features (calculated using the code under src/features_extraction), use the provided Jupyter notebooks available at:
-src/classification
+Use the provided Jupyter notebooks to perform machine learning classification on the eye-tracking features (under src/features_extraction).
+```bash
+The version we utilized in the paper is: `src/classification/paired_session_classification_loso_ALL_ROI_v2.ipynby`
+```
+These notebooks contain detailed instructions and scripts for preparing data, training, and evaluating machine learning models. You can also perform single-trial classification using XGBoost and other models we experimented with.
 
-These notebooks include detailed instructions and scripts for: Data preparation, Training and evaluating machine learning models, Performing single-trial classification using XGBoost
+### Visualization
+To generate videos with eye-tracking data like the ones we used [here](https://drive.google.com/file/d/1-W7XKSghak0-JkF8k19or83d4DMbNXbJ/view?usp=drive_link)
+
+```bash
+1. Start by defining the configuration in the `src/visualize/config.py` file.
+2. Next, execute the 'src/visualize/VisualizeController.py' file
+```
 
 ## Stimuli
 The movie clips used in the experiments are available at [Yuval Nir Lab](https://yuvalnirlab.com/)
