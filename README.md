@@ -13,7 +13,7 @@ To run the scripts in this repository, you need:
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/MEGA.git
+git clone https://github.com/dyamin/MEGA.git
 cd MEGA
 ```
 Install the required packages:
