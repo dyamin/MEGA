@@ -1,0 +1,77 @@
+Feature, SHAP-value
+onset AUC Fixations In RoI,1.65730323745221
+last onset Median Saccades End In RoI,1.7754014152389794
+last onset Mean Saccades End In RoI,1.7875240450601575
+Saccades Start Counts In RoI,1.5813481209117137
+last onset Min Saccades End In RoI,1.7158220100226385
+Saccades Start In out RoI Ratio,1.5633163746792502
+onset AUC Saccades Start In RoI,1.7304471063661904
+last onset AUC Saccades End In RoI,1.666464900408927
+last onset Saccades End First In RoI,1.7158220100226385
+Pupil radius Fixations First Diff,3.4093889126407465e-18
+Duration Saccades End First In RoI,1.8057808822658084
+peak velocity Saccades End First In RoI,1.8051036115982357
+onset Mean Saccades Start In RoI,1.8606494097209476
+peak velocity Min Saccades Start In RoI,1.783288259247734
+onset Std Saccades Start In RoI,1.9400047467760044
+onset Max Saccades Start In RoI,1.8552312695075355
+Duration Max Saccades Start In RoI,1.8164150311557796
+last onset Sem Saccades End In RoI,1.8677643585224928
+peak velocity Max Saccades Start In RoI,1.8138143848140225
+vis angle Saccades End First In RoI,1.7741630956821013
+Duration Min Saccades Start In RoI,1.816235180827834
+vis angle Min Saccades Start In RoI,1.7044456259896574
+Sem Gaze Distance,0.8155388328616919
+last onset Max Saccades End In RoI,1.7780822659480304
+Gaze Re Entries To RoI Rate,1.488732292955357
+Duration Min Saccades End In RoI,1.7698078230071685
+Fixations Counts In RoI,1.570035351245931
+AUC Gaze Distance,-1.606091464177113
+Fixations In out RoI Ratio,1.5537396296342738
+onset Sem Fixations In RoI,1.8878285153962986
+Fixations Re Entries To RoI Rate,1.6143233838484727
+Fixations Re Entries To RoI Count,1.6143233838484727
+onset Mean Fixations In RoI,1.7806314341306324
+onset Median Fixations In RoI,1.7655232083373384
+onset Std Fixations In RoI,1.8906793466550074
+onset Max Fixations In RoI,1.7716751508791129
+onset Min Fixations In RoI,1.678225195280098
+Gaze Counts In RoI,1.3905700081634726
+onset Fixations First In RoI,1.678225195280098
+Gaze In out RoI Ratio,1.3739772570161328
+Duration Fixations First In RoI,1.830097029702648
+vis angle Min Saccades End In RoI,1.6583454325479332
+peak velocity Max Saccades End In RoI,1.7709240955472516
+Gaze Re Entries To RoI Count,1.488732292955357
+Duration Max Fixations In RoI,1.8141829337427733
+peak velocity Min Saccades End In RoI,1.7446151382482795
+onset Median Saccades Start In RoI,1.8452883825543045
+Max Fixations Distance,-0.24609974669771648
+Pupil radius Fixations ReEntry Mean Diff,2.8518873759803272e-18
+Duration Max Saccades End In RoI,1.7745736053232197
+Saccades Start Counts Out RoI,-0.2861114449051133
+Std Fixations Distance,0.9369334567481195
+Saccades End In out RoI Ratio,1.5520502647397107
+Sem Fixations Distance,0.7646900583804019
+Fixations Mean Pupil Change On Event,-0.19655648005749007
+Std Gaze Distance,0.8155395979178311
+Movie,0.40599897147057507
+Fixations Counts Out RoI,-1.937762684597535e-18
+Duration Min Fixations In RoI,1.8172022215252528
+Gaze Counts Out RoI,-0.7178077427305011
+Median Fixations Distance,-1.519224434106189
+onset Sem Saccades Start In RoI,1.9387226491480454
+Saccades End Counts Out RoI,-0.2821039367337372
+last onset Std Saccades End In RoI,1.8686570511801217
+onset Min Saccades Start In RoI,1.7890510285227754
+vis angle Max Saccades Start In RoI,1.841072616910349
+Median Gaze Distance,-1.2272477117589344
+vis angle Max Saccades End In RoI,1.7925325992418606
+Mean Fixations Distance,-1.9884796110599465
+Max Gaze Distance,-0.16621244965114684
+AUC Fixations Distance,-0.8094577090621462
+Saccades End Counts In RoI,1.5716458491605558
+Gaze Mean Pupil Change On Event,-0.02253719597760883
+Min Fixations Distance,-1.573161164011082
+Min Gaze Distance,-1.1695040538650652
+Mean Gaze Distance,-1.6060913729819273
