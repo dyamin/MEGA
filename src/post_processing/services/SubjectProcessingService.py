@@ -30,7 +30,7 @@ def process_subject(subject_directory: str, subject_memory: pd.Series,
         print(f"Starting to process subject {subject_id}...")
     raw_data = aggregate_data(subject.get_main_directory())
 
-    # raw_data = remove_invalid_data(raw_data)
+    raw_data = remove_invalid_data(raw_data)
 
     if should_remove_prefix:
         raw_data = remove_prefix(raw_data)
